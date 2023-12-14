@@ -3,4 +3,12 @@ This repository contains the Final Project for a Coursera Getting Started with G
 
 Date of today: 14/12/2023
 
-Thanks for visiting and have a Merry Christmas
+Description: 
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
